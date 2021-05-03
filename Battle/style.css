@@ -1,0 +1,12 @@
+body{
+    margin-top: 10%;
+    text-align: center;
+}
+
+#ranHero{
+    color: rgb(65, 65, 238);
+}
+
+#ranEnemy{
+    color: darkred;
+}
